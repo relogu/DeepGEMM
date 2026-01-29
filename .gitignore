@@ -22,3 +22,6 @@ stubs/
 
 # Symlinks to compiled extensions
 deep_gemm/*.so
+
+# Adding the .ok for UV installation
+.ok
